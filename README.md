@@ -66,9 +66,9 @@ AppCompatActivity implements StaggeredItemClickListener{
 
 You may use the following methods in your code to customize your StaggeredGridView.
 
-*`staggeredGridView.setViewDimensions(min, max);` By using above method you can set staggered view minimum and maximum height and the total of both should be 100.
+*`staggeredGridView.setViewDimensions(min, max);` By using this method you can set staggered view minimum and maximum height and the total of both should be 100.
 
-*`staggeredGridView.setViewMaxWidthInDP(getRandomInt());` By using above method you can set maximum width for staggered view.
+*`staggeredGridView.setViewMaxWidthInDP();` By using this method you can set maximum width for staggered view.
 
 Developed By
 --------
